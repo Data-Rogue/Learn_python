@@ -1,6 +1,11 @@
 ## Welcome!
 Here you'll learn the basics of programming such as: print(), and how to make a function!
 
+## What's a terminal?
+A terminal is a text-based way of interacting with a computer or hardware.
+(Debian based) Linux has a shortcut to spin one up: `Ctrl + Alt + T`
+Or in VScode, press the `Terminal` button at the top of the window.
+
 ## What's a `print()` function?
 A print function prints text to the **Console** (Also called the **Terminal**)
 Depending on what editor your running, you may have different features such as an "**Integrated Terminal**" which basically just adds a toggleable terminal.
@@ -8,7 +13,7 @@ Depending on what editor your running, you may have different features such as a
 
 To begin, open [Print.py](Print.py).
 
-Then **run the code** by either pressing the "Play" button at the top of your IDE, or by running this command in the terminal:
+Then **run the code** by either pressing the "Play" button at the top of your IDE, or by [opening a terminal](#whats-a-terminal) and running this command:
 ```Bash
 python3 lesson1_print/Print.py
 ```
@@ -23,4 +28,10 @@ In [Print.py](Print.py) we have a simple print function.
  2. The *brackets* specify that it is a function and can be executed
  3. Whatever is surrounded by the *commas* will be printed
 
-So try and print the sentence: `Hello world!`
+## Challenge
+Try and print the sentence: `Hello world!`.
+Make sure that you have proper [structure](#notice-anything)!
+
+## Review
+The `print()` function is an important part of programming!
+In fact, you may find yourself using it often to debug code!
